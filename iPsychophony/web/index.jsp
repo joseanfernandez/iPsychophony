@@ -53,7 +53,7 @@
 		</form>
 		<hr/>
 		<p class="lead">
-		    Cuando tengas la grabación, pulsa en 
+		    Cuando tenga la grabación, pulse en 
 		    <span class="cursiva">Analizar.</span>
 		</p>
 		<p class="lead">
