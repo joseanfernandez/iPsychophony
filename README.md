@@ -1,4 +1,7 @@
 # iPsychophony
+|<img src="img/iPsychophony.png" alt="alt text" width="417" height="250">|
+|-----|
+|Index|
 
 ### Ejercicio 1: Transcomunicación instrumental mediante ficheros de texto digitales
 Se conoce la transcomunicación instrumental (TCI) como la técnica de comunicación que utiliza aparatos electrónicos para establecer comunicación con los espíritus. El caso de TCI más conocido es el de la psicofonía.
