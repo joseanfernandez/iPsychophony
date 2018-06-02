@@ -1,5 +1,5 @@
 # iPsychophony
-|<img src="img/iPsychophony.png" alt="alt text" width="417" height="250">|
+|<img src="img/iPsychophony.png" alt="alt text" width="834" height="500">|
 |-----|
 |Index|
 
